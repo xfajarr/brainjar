@@ -37,3 +37,9 @@ chunk"}`. Looks like a DeepSeek problem, but it is not.
 launchd logs are empty — the tray app crashed at some point; the current 9router process is
 running under a different parent, so autostart may not relaunch it after a reboot. Verify the
 port after restarts.
+
+**Status update (2026-08-27):** Both `cmc/deepseek/deepseek-v4-flash` and
+`cmc/deepseek/deepseek-v4-pro` now return `400 You have insufficient credits` from
+commandcode. The stream-cut issue is moot — the account is out of credits. Workaround: use
+`bai/deepseek-v4-flash` (registered in omp models.yml, works). See
+[[2026-08-27-omp-providers-from-opencode]] for the omp setup.
