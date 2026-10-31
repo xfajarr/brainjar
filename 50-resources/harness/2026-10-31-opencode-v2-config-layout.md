@@ -13,8 +13,9 @@ created: 2026-10-31
 
 `opencode api get "/api/config?location%5Bdirectory%5D=<dir>"` lists the documents actually merged.
 
-1. `~/.config/opencode/opencode.json`: global. Providers (bai, gmi, tokenrouter, 9router), DigitalOcean
-   MCPs, codebase-memory MCP, `vision` agent, `experimental.todo`, the `skills-unadvertised` source.
+1. `~/.config/opencode/opencode.json`: global. Default model `opencode-go/deepseek-v4.1-flash`,
+   providers (gmi, tokenrouter, 9router), DigitalOcean MCPs, codebase-memory MCP, `experimental.todo`,
+   the `skills-unadvertised` source.
 2. `~/.opencode/opencode.json`: a V1 leftover, but `~` is an ancestor of every project, so it loads as a
    **project** `.opencode` config and outranks the global file. Holds `default_agent`, exa/context7 MCPs,
    notifier + goal plugins, the shell ask rules, ClinePass/ollama providers.
@@ -45,7 +46,10 @@ and `CLAUDE.md` are not.
 
 - `plugins/vision-proxy.ts` (never loaded in V2) and the V1 custom tools in `~/.opencode/tools/`
   (`getSessionID`, `saveCommitMessage`, `getCommitMessage`), plus the `web3-assistant` line that relied
-  on them. Both are in `archive-2026-10-31/`. The `vision` subagent is unrelated and stays.
+  on them. Both are in `archive-2026-10-31/`.
+- The `bai` provider, its key, and the `vision` subagent pinned to `bai/deepseek-v4-flash-vision-exp`.
+  Both models in use (OpenCode Go DeepSeek Flash and Claude Opus) read images directly, so the
+  subagent had nothing left to do.
 - `opencode plugin update`: notifier 1.1.0 → 1.1.1, goal plugin 0.11.1 → 0.11.4.
 
 Unused leftovers: `@opencode-ai/plugin` and `plugin-beta` in `~/.config/opencode/package.json`, and the

@@ -21,7 +21,7 @@ and settle types before code. A light spec is kept for smart contracts, where it
 
 | Model | ID | Use for |
 | --- | --- | --- |
-| DeepSeek Flash | `bai/deepseek-v4-flash` (default) | exploring, implementing a written plan, tests, small fixes, refactors, docs |
+| DeepSeek Flash | `opencode-go/deepseek-v4.1-flash` (default; variants `low`, `high`, `max`) | exploring, implementing a written plan, tests, small fixes, refactors, docs |
 | Claude Opus | `claude-agent/opus#high` (`#xhigh` for contract audits) | plans for non-trivial work, architecture, contract specs and security review, infra touching prod, final review of risky diffs |
 
 Switching in the TUI (leader is `ctrl+o`): `<leader>m` model list, `ctrl+f` in that dialog to mark a
