@@ -13,6 +13,7 @@ Everything about how my coding agents are set up, routed, and maintained.
 
 - [[2026-08-03-deepseek-v4-routing-opencode-harness|DeepSeek V4 routing (ADR)]] — Flash primary, Pro standby
 - [[2026-10-31-opencode-v2-config-layout|opencode V2 config layout]] — what loads, secrets, hidden skills, backups
+- [[2026-10-31-agent-coding-workflow-guide|Agent coding workflow guide]] — lanes, Opus vs Flash, token habits
 
 ## Gotchas
 
