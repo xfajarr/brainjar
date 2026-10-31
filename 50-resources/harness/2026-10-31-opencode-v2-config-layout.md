@@ -41,11 +41,15 @@ and `CLAUDE.md` are not.
 `~/.local/share/opencode-config-backups/`: `pre-audit-2026-10-31.tar.gz` (full pre-change state) and
 `archive-2026-10-31/` (archived files: old backups, V1 leftovers, shadowed skills, `skill-creator` agent).
 
-## Still open
+## Removed later the same day
 
-- `plugins/vision-proxy.ts` fails to load (SDK mismatch) and reads keys from the config file, which now
-  holds `{file:}` refs. Port to V2 and read from `secrets/` if still wanted.
-- `~/.opencode/tools/*.ts` are V1 custom tools and do not load in V2.
+- `plugins/vision-proxy.ts` (never loaded in V2) and the V1 custom tools in `~/.opencode/tools/`
+  (`getSessionID`, `saveCommitMessage`, `getCommitMessage`), plus the `web3-assistant` line that relied
+  on them. Both are in `archive-2026-10-31/`. The `vision` subagent is unrelated and stays.
+- `opencode plugin update`: notifier 1.1.0 → 1.1.1, goal plugin 0.11.1 → 0.11.4.
+
+Unused leftovers: `@opencode-ai/plugin` and `plugin-beta` in `~/.config/opencode/package.json`, and the
+`~/.opencode/package.json` deps; nothing imports them any more.
 
 ## Related
 
