@@ -20,6 +20,7 @@ Everything about how my coding agents are set up, routed, and maintained.
 - [[2026-08-03-9router-commandcode-stream-cut|"Upstream stream ended" — 9router routes via commandcode]]
 - [[2026-10-31-opencode-permissions-match-rewritten-command|Shell permissions see the rtk-rewritten command]]
 - [[2026-10-31-opencode-skill-transform-misses-file-skills|skill.transform cannot hide disk skills]]
+- [[2026-11-05-mac-disk-cleanup-stale-worktrees|Deleting stale worktrees frees far less than du says]]
 
 ## Areas to cover
 
