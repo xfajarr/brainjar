@@ -15,7 +15,7 @@ Personal knowledge base: everything I learn, decide, and run. Accessible from ph
 
 ## Areas (sedang dipelajari)
 
-- *(isi pas mulai belajar topik baru)*
+- **Web3 bug bounty** (independent programs, High/Crit) — [[2026-11-17-independent-web3-bounty-shortlist|shortlist]], [[2026-11-17-finding-independent-bounty-programs|finding and vetting programs]]
 
 ## Projects (active)
 
