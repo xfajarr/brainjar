@@ -18,3 +18,4 @@ title: Wiki Log
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-onchain-focus.md"
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-onchain-release-baseline.md"
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-onchain-settlement-controls.md"
+- [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-onchain-refund-lifecycle.md"
