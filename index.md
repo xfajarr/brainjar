@@ -26,6 +26,7 @@ Personal knowledge base: everything I learn, decide, and run. Accessible from ph
 - [[2026-11-22-across-synthetic-settlement-model|Across synthetic settlement model]]
 - [[2026-11-22-across-passive-recon-closeout|Across passive recon closeout]]
 - [[2026-11-22-across-observed-ethereum-base-transfer|Across observed Ethereum-to-Base transfer]]
+- [[2026-11-22-across-observed-settlement-bundle|Across observed settlement bundle]]
 
 ## Flow
 
