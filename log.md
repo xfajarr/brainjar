@@ -10,3 +10,4 @@ title: Wiki Log
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-ethereum-base-deployment.md"
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-synthetic-settlement-model.md"
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-passive-recon-closeout.md"
+- [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-observed-ethereum-base-transfer.md"
