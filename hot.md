@@ -13,6 +13,7 @@ updated: 2026-11-22
 - [2026-11-22] CAPTURE - [[2026-11-22-across-bounty-scope-and-invariants|Across bounty scope and fund invariants]]
 - [2026-11-22] CAPTURE - [[2026-11-22-across-recon-deployment-and-settlement|Across deployment and settlement recon]]
 - [2026-11-22] CAPTURE - [[2026-11-22-across-ethereum-base-deployment|Across Ethereum and Base deployment evidence]]
+- [2026-11-22] CAPTURE - [[2026-11-22-across-synthetic-settlement-model|Across synthetic settlement model]]
 
 ## Active Threads
 

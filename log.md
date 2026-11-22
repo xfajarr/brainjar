@@ -8,3 +8,4 @@ title: Wiki Log
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-bounty-scope-and-invariants.md"
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-recon-deployment-and-settlement.md"
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-ethereum-base-deployment.md"
+- [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-synthetic-settlement-model.md"
