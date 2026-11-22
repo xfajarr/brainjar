@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-08-03 13:22:09
+updated: 2026-11-22
 ---
 
 # Hot Cache
@@ -10,6 +10,7 @@ updated: 2026-08-03 13:22:09
 ## Recent Activity
 
 - [2026-08-03 13:22:09] INIT — vault created at /Users/xfajarr/xfajarr/brainjar
+- [2026-11-22] CAPTURE - [[2026-11-22-across-bounty-scope-and-invariants|Across bounty scope and fund invariants]]
 
 ## Active Threads
 

@@ -20,6 +20,7 @@ Personal knowledge base: everything I learn, decide, and run. Accessible from ph
 ## Projects (active)
 
 - *(project yang lagi jalan)*
+- [[2026-11-22-across-bounty-scope-and-invariants|Across Protocol bounty scope and fund invariants]]
 
 ## Flow
 
