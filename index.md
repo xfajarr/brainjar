@@ -32,6 +32,7 @@ Personal knowledge base: everything I learn, decide, and run. Accessible from ph
 - [[2026-11-22-across-reported-scope-clarification|Across reported scope clarification]]
 - [[2026-11-22-across-onchain-focus|Across on-chain focus]]
 - [[2026-11-22-across-onchain-release-baseline|Across on-chain release baseline]]
+- [[2026-11-22-across-onchain-settlement-controls|Across on-chain settlement controls]]
 
 ## Flow
 
