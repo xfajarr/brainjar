@@ -11,6 +11,7 @@ updated: 2026-11-22
 
 - [2026-08-03 13:22:09] INIT — vault created at /Users/xfajarr/xfajarr/brainjar
 - [2026-11-22] CAPTURE - [[2026-11-22-across-bounty-scope-and-invariants|Across bounty scope and fund invariants]]
+- [2026-11-22] CAPTURE - [[2026-11-22-across-recon-deployment-and-settlement|Across deployment and settlement recon]]
 
 ## Active Threads
 
