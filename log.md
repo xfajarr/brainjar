@@ -15,3 +15,4 @@ title: Wiki Log
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-archived-fill-attribution.md"
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-historical-refund-proof.md"
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-reported-scope-clarification.md"
+- [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-onchain-focus.md"

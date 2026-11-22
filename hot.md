@@ -20,6 +20,7 @@ updated: 2026-11-22
 - [2026-11-22] CAPTURE - [[2026-11-22-across-archived-fill-attribution|Across archived fill attribution]]
 - [2026-11-22] CAPTURE - [[2026-11-22-across-historical-refund-proof|Across historical refund proof]]
 - [2026-11-22] CAPTURE - [[2026-11-22-across-reported-scope-clarification|Across reported scope clarification]]
+- [2026-11-22] CAPTURE - [[2026-11-22-across-onchain-focus|Across on-chain focus]]
 
 ## Active Threads
 
