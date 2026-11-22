@@ -18,6 +18,7 @@ updated: 2026-11-22
 - [2026-11-22] CAPTURE - [[2026-11-22-across-observed-ethereum-base-transfer|Across observed Ethereum-to-Base transfer]]
 - [2026-11-22] CAPTURE - [[2026-11-22-across-observed-settlement-bundle|Across observed settlement bundle]]
 - [2026-11-22] CAPTURE - [[2026-11-22-across-archived-fill-attribution|Across archived fill attribution]]
+- [2026-11-22] CAPTURE - [[2026-11-22-across-historical-refund-proof|Across historical refund proof]]
 
 ## Active Threads
 
