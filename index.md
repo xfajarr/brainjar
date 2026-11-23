@@ -37,6 +37,7 @@ Personal knowledge base: everything I learn, decide, and run. Accessible from ph
 - [[2026-11-22-across-onchain-fill-lifecycle|Across on-chain fill lifecycle]]
 - [[2026-11-22-across-base-gateway-binding|Across Base Gateway binding]]
 - [[2026-11-22-across-observed-base-v5-fill|Across observed Base V5 fill]]
+- [[2026-11-23-across-base-gateway-source|Across Base Gateway verified source]]
 
 ## Flow
 

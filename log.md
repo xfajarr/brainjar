@@ -22,3 +22,4 @@ title: Wiki Log
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-onchain-fill-lifecycle.md"
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-base-gateway-binding.md"
 - [2026-11-22] CAPTURE type=project page="30-projects/2026-11-22-across-observed-base-v5-fill.md"
+- [2026-11-23] CAPTURE type=project page="30-projects/2026-11-23-across-base-gateway-source.md"
